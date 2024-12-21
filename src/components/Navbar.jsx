@@ -13,9 +13,9 @@ const navItems = [
 ];
 
 const socialLinks = [
-  { icon: FaGithub, href: 'https://github.com/nikhiltelase' },
-  { icon: FaLinkedin, href: 'https://linkedin.com/in/nikhiltelase' },
-  { icon: FaInstagram, href: 'https://instagram.com/nikhiltelase17' },
+  { icon: FaGithub, href: 'https://github.com/Mianse' },
+  { icon: FaLinkedin, href: 'https://www.linkedin.com/in/damian-orina-72abb51b6/' },
+  { icon: FaInstagram, href: 'https://instagram.com/' },
 ];
 
 function Navbar() {
@@ -43,7 +43,7 @@ function Navbar() {
             whileHover={{ scale: 1.1 }}
             className="text-xl font-bold text-primary"
           >
-            NT
+            DON
           </motion.div>
           
           <div className="hidden md:flex items-center space-x-8">

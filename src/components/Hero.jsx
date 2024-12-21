@@ -20,9 +20,9 @@ const Hero = () => {
             <span className="text-accent">
               <TypeAnimation
                 sequence={[
-                  "Nikhil Telase",
+                  "Damian Orina",
                   1000,
-                  "a Developer",
+                  "a Software Developer",
                   1000,
                   "an Innovator",
                   1000,
@@ -54,7 +54,7 @@ const Hero = () => {
             View Projects
           </a>
           <a
-            href="/nikhil-resume2.pdf" // Update to a relative path
+            href="/Damian_Nyandwaro_CV.pdf" // Update to a relative path
             download
             className="border text-primary border-accent text-accent hover:bg-accent/10 p-2 sm:px-6 sm:py-3 rounded-lg transition-all transform hover:scale-105 hover:shadow-lg"
           >

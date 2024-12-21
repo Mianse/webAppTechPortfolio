@@ -57,17 +57,17 @@ const Contact = () => {
               <ContactDetail
                 icon={<FaEnvelope />}
                 title="Email"
-                text="nikhiltelase@gmail.com"
+                text="damianorina17@gmail.com.com"
               />
               <ContactDetail
                 icon={<FaPhone />}
                 title="Phone"
-                text="+91 8305230871"
+                text="+254 703449305"
               />
               <ContactDetail
                 icon={<FaMapMarkerAlt />}
                 title="Location"
-                text="Bhopal, India"
+                text="ngong Racecaurse, Nairobi"
               />
             </div>
           </motion.div>
